@@ -5,4 +5,8 @@ public class Sample1{
     public void fun2(){
         System.out.println("fun2 created by pradeep");
     }
+     public void fun3(){
+        System.out.println("fun3 created by pradeep");
+    }
+
 }
